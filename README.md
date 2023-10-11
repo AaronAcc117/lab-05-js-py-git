@@ -1,1 +1,1 @@
-# lab-05-js-py-git
+this lab is about javaScript and Python 
